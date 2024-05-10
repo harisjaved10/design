@@ -1,0 +1,24 @@
+.background{
+    background-color: #23252f;
+}
+
+.text-div{
+    color: white;
+}
+
+.margin-top{
+    margin-top: 50px;
+}
+
+.pad-left{
+    padding: 40px;
+}
+
+.size{
+    padding: 50px 150px;
+}
+
+.textboxColor{
+    background-color: #23252f;
+    height: 40px;
+}
